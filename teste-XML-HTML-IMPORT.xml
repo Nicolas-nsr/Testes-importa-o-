@@ -1,8 +1,8 @@
 <access_import>
     <record>
         <company_code>393</company_code>
-        <name>Teste Sucesso XML</name>
-        <email>html_xml@mailinator.com.br</email>
+        <name>Teste Sucesso HTLM 001</name>
+        <email>html_xml001@mailinator.com.br</email>
         <status>A</status>
         <type>I</type>
         <profile_name>Admin</profile_name>
