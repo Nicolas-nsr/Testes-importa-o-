@@ -1,0 +1,14 @@
+<access_import>
+    <record>
+        <company_code>393</company_code>
+        <name>Teste Sucesso XML</name>
+        <email>teste_xml@mailinator.com.br</email>
+        <status>A</status>
+        <type>I</type>
+        <profile_name>Admin</profile_name>
+        <expiration_date>31-12-2026 18:00</expiration_date>
+        <is_dpo>N</is_dpo>
+        <send_dsar>N</send_dsar>
+        <business_areas>BENEFÍCIOS</business_areas>
+    </record>
+</access_import>
